@@ -1,0 +1,5 @@
+﻿  Entropy.c
+  Transform.c
+  코드를 생성하고 있습니다...
+C:\Users\bsbs7\OneDrive - Sejong University\공부\영상처리\과제5\Project5_Encoder_hw\Project5\Transform.c(35,40): warning C4244:  '=': 'Double'에서 'Int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project5.vcxproj -> C:\Users\bsbs7\OneDrive - Sejong University\공부\영상처리\과제5\Project5_Encoder_hw\x64\Debug\Project5.exe
