@@ -47,7 +47,7 @@ App = {
       App.listenToEvents();
     });
   },
-
+  
   // 이쯤에서 controller 호출
   buyRealEstate: function() {
     // log 로 데이터 확인

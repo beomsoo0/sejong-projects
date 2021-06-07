@@ -4,7 +4,7 @@
 	  "address" : "광진구 화양동 131",
 	  "type": "아파트",
 	  "picture": "images/house0.jpg",
-	  "area": "85A/59",
+	  "area": "59",
 	  "price": 1.23
 	},
 	{
@@ -12,15 +12,15 @@
 	  "address" : "광진구 군자동 231",
 	  "type": "연립주택",
 	  "picture": "images/house1.jpg",
-	  "area": "115/76",
+	  "area": "76",
 	  "price": 1.56
 	},
 	{
 	  "id" : 2,
 	  "address": "광진구 군자동 22",
-	  "type": "개인주택",
+	  "type": "아파트",
 	  "picture": "images/house2.jpg",
-	  "area": "204/72",
+	  "area": "72",
 	  "price": 2.74
 	},
 	{
@@ -28,7 +28,7 @@
 	  "address": "광진구 군자동 93",
 	  "type": "개인주택",
 	  "picture": "images/house3.jpg",
-	  "area": "693/82",
+	  "area": "82",
 	  "price": 1.87
 	},
 	{
@@ -36,7 +36,7 @@
 	  "address": "광진구 군자동 32-3",
 	  "type": "연립주택",
 	  "picture": "images/house4.jpg",
-	  "area": "46/45",
+	  "area": "45",
 	  "price": 1.97
 	},
 	{
@@ -44,7 +44,7 @@
 	  "address": "광진구 군자동 39-3",
 	  "type": "아파트",
 	  "picture": "images/house5.jpg",
-	  "area": "113A/84",
+	  "area": "84",
 	  "price": 1.77
 	},
 	{
@@ -52,7 +52,7 @@
 	  "address": "광진구 군자동 312",
 	  "type": "아파트",
 	  "picture": "images/house6.jpg",
-	  "area": "145/114",
+	  "area": "94",
 	  "price": 2.12
 	},
 	{
@@ -60,7 +60,7 @@
 	  "address": "광진구 화양동 33-3",
 	  "type": "개인주택",
 	  "picture": "images/house7.jpg",
-	  "area": "430/92",
+	  "area": "52",
 	  "price": 2.57
 	}
   ]
