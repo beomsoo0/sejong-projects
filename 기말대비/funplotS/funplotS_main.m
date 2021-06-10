@@ -1,0 +1,1 @@
+ydemoS = funplotS('Fdemo', 0.5, 4)
