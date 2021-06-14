@@ -1,0 +1,18 @@
+1. ADT 추가
+
+- int LSearch(List *plist, LData data); 
+
+기능: 리스트에 data 값이 있는 지 탐색
+반환값: data가 저장된 index 값 (인덱스는 0 부터 시작), 혹은  data가 list에 없는 경우 -1
+
+- int LRemoveData(List *plist, LData data); 
+
+기능: 리스트에 data가 있으면 삭제 (동일 data가 여러 번 있는 경우 head에서 제일 가까운 항목을 삭제)
+반환값: data를 삭제했으면 TRUE(1), 삭제 못했으면(list에 data가 없는 경우) FALSE(0)
+
+2. 정렬은 내림차순 정렬이 되도록 WhoIsProcede 함수 수정 
+
+3. ADT 추가와 정렬기준 변경을 확인을 위한 테스트 프로그램 (main 함수 수정) 
+
+모든 .c, .h 파일들을 블랙보드에 첨부로 제출
+LSearch, LRemoveData ADT 구현 시 기존의 ADT 함수 활용하기

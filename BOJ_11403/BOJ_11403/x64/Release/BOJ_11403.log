@@ -1,0 +1,9 @@
+﻿  11403.c
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\BOJ_11403\BOJ_11403\11403.c(421,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\BOJ_11403\BOJ_11403\11403.c(425,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다.
+  1 of 23 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  BOJ_11403.vcxproj -> C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\BOJ_11403\x64\Release\BOJ_11403.exe

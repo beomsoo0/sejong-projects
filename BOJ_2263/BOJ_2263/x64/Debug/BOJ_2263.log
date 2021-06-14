@@ -1,0 +1,5 @@
+﻿  BOJ_1991_tree.c
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\BOJ_2263\BOJ_2263\BOJ_1991_tree.c(12,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\BOJ_2263\BOJ_2263\BOJ_1991_tree.c(15,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\BOJ_2263\BOJ_2263\BOJ_1991_tree.c(18,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  BOJ_2263.vcxproj -> C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\BOJ_2263\x64\Debug\BOJ_2263.exe

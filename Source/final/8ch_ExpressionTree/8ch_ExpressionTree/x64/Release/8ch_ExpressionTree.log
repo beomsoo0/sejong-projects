@@ -1,0 +1,10 @@
+﻿  BinaryTree2.c
+  ExpressionMain.c
+  ExpressionTree.c
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\8ch_ExpressionTree\ExpressionTree.c(13,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ListBaseStack.c
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  8ch_ExpressionTree.vcxproj -> C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\8ch_ExpressionTree\x64\Release\8ch_ExpressionTree.exe

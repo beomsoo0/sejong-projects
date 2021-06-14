@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\BOJ_5397\BOJ_5397\소스.c(115,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\BOJ_5397\BOJ_5397\소스.c(119,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  BOJ_5397.vcxproj -> C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\BOJ_5397\Debug\BOJ_5397.exe

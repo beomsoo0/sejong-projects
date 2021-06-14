@@ -1,0 +1,8 @@
+﻿  소스.c
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\BOJ_2263\BOJ_2263\소스.c(43,9): warning C4477: 'scanf' : 서식 문자열 '%c'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\BOJ_2263\BOJ_2263\소스.c(43,9): warning C4477: 'scanf' : 서식 문자열 '%c'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\BOJ_2263\BOJ_2263\소스.c(43,9): warning C4477: 'scanf' : 서식 문자열 '%c'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int'입니다.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\BOJ_2263\BOJ_2263\소스.c(53,32): warning C4047: '=': 'BTreeNode *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\BOJ_2263\BOJ_2263\소스.c(36,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\BOJ_2263\BOJ_2263\소스.c(43,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  BOJ_2263.vcxproj -> C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\BOJ_2263\Debug\BOJ_2263.exe

@@ -1,0 +1,8 @@
+﻿  BinarySearchTree2.c
+  BinarySearchTreeDelMain.c
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\sol1\BinarySearchTreeDelMain.c(21,26): warning C4047: '함수': 'BTreeNode *'의 간접 참조 수준이 'BTreeNode **'과(와) 다릅니다.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\sol1\BinarySearchTreeDelMain.c(21,18): warning C4024: 'BSTSearch': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\sol1\BinarySearchTreeDelMain.c(11,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\sol1\BinarySearchTreeDelMain.c(17,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\sol1\BinarySearchTreeDelMain.c(8,14): warning C4101: 'sNode' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...

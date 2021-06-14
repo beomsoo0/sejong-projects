@@ -1,0 +1,5 @@
+﻿  DLinkedList.c
+  DLinkedListMain.c
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\mid\DLinkedList\source\DLinkedListMain.c(18,12): warning C4013: 'LRemoveAll'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  DLinkedList.vcxproj -> C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\mid\DLinkedList\Debug\DLinkedList.exe
