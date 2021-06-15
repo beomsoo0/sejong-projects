@@ -1,0 +1,1 @@
+P = Probable_Lottery(49,6,3)

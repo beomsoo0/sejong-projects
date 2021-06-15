@@ -12,7 +12,7 @@ axis([x_range(1) x_range(end) y_range(1) y_range(end)])
 
 %%% (To do) Begin
 
-load('voltage_dist');
+load('voltage_data', 'voltage_dist');
 dx=0.5; dy=0.5;
 x=[x_range(1):dx:x_range(end)];
 y=[y_range(1):dy:y_range(end)];
