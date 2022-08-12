@@ -1,0 +1,13 @@
+﻿  GEOMETRIC.c
+C:\Users\bsbs7\OneDrive - Sejong University\공부\영상처리\과제2\Project2_hw\Project2\GEOMETRIC.c(26,1): warning C4244:  '초기화 중': 'double'에서 'UChar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\bsbs7\OneDrive - Sejong University\공부\영상처리\과제2\Project2_hw\Project2\GEOMETRIC.c(74,1): warning C4244:  '초기화 중': 'double'에서 'UChar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\bsbs7\OneDrive - Sejong University\공부\영상처리\과제2\Project2_hw\Project2\GEOMETRIC.c(120,1): warning C4244:  '초기화 중': 'double'에서 'UChar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\bsbs7\OneDrive - Sejong University\공부\영상처리\과제2\Project2_hw\Project2\GEOMETRIC.c(429,142): warning C4244:  'return': 'double'에서 'UChar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\bsbs7\OneDrive - Sejong University\공부\영상처리\과제2\Project2_hw\Project2\GEOMETRIC.c(450,73): warning C4047:  '함수': 'UChar *'의 간접 참조 수준이 'UChar (*)[9]'과(와) 다릅니다.
+C:\Users\bsbs7\OneDrive - Sejong University\공부\영상처리\과제2\Project2_hw\Project2\GEOMETRIC.c(450,73): warning C4024:  'Blurring': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\bsbs7\OneDrive - Sejong University\공부\영상처리\과제2\Project2_hw\Project2\GEOMETRIC.c(460,1): warning C4244:  '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  image.c
+  main.c
+  코드를 생성하고 있습니다...
+C:\Users\bsbs7\OneDrive - Sejong University\공부\영상처리\과제2\Project2_hw\Project2\GEOMETRIC.c(461,1): warning C4244:  '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project2.vcxproj -> C:\Users\bsbs7\OneDrive - Sejong University\공부\영상처리\과제2\Project2_hw\Debug\Project2.exe
