@@ -1,0 +1,9 @@
+syms i t
+L = 3;
+R = 10;
+C = 80 * 10^-6;
+diffeq2 = 'L*D2i+R*Di+i/C = 0';
+y2 = dsolve(diffeq2, 'i(0)=0','Di(0)=8')
+fplot(y2, [0,1]);;
+xlabel = ('Times (s)');
+ylabel = ('i (A)');

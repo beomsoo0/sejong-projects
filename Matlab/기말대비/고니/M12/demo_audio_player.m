@@ -1,0 +1,10 @@
+[s, Fs] = audioread('intro.wav');
+p = audioplayer(s, Fs);
+play(p);   pause(3);
+pause(p);  pause(1);
+resume(p); pause(3);
+pause(p);  pause(1);
+play(p);   pause(3);
+stop(p);   pause(1);
+play(p);   pause(5);
+stop(p);
