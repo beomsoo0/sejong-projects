@@ -1,0 +1,13 @@
+﻿  InfixCalculator.c
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\InfixCalculator\source\InfixCalculator.c(11,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  InfixCalculatorMain.c
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\InfixCalculator\source\InfixCalculatorMain.c(16,9): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\InfixCalculator\source\InfixCalculatorMain.c(22,18): warning C4013: 'EvalRPNExp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\InfixCalculator\source\InfixCalculatorMain.c(10,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\InfixCalculator\source\InfixCalculatorMain.c(11,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\InfixCalculator\source\InfixCalculatorMain.c(16,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  InfixToPostfix.c
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\InfixCalculator\source\InfixToPostfix.c(88,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ListBaseStack.c
+  PostCalculator.c
+  코드를 생성하고 있습니다...

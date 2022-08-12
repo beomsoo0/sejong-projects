@@ -1,0 +1,9 @@
+﻿  소스.c
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\BOJ_5397\BOJ_5397\소스.c(34,26): warning C4047: '=': 'LData'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\BOJ_5397\BOJ_5397\소스.c(38,26): warning C4047: '=': 'LData'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\BOJ_5397\BOJ_5397\소스.c(89,22): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\BOJ_5397\BOJ_5397\소스.c(107,31): warning C4047: '!=': 'LData'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\BOJ_5397\BOJ_5397\소스.c(84,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\BOJ_5397\BOJ_5397\소스.c(88,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\BOJ_5397\BOJ_5397\소스.c(81,17): warning C4101: 'data' :참조되지 않은 지역 변수입니다.
+  BOJ_5397.vcxproj -> C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\BOJ_5397\x64\Debug\BOJ_5397.exe

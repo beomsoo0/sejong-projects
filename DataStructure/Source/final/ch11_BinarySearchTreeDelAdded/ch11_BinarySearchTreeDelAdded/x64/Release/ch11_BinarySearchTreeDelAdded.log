@@ -1,0 +1,11 @@
+﻿  BinarySearchTree2.c
+  BinarySearchTreeDelMain.c
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\ch11_BinarySearchTreeDelAdded\BinarySearchTreeDelMain.c(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\ch11_BinarySearchTreeDelAdded\BinarySearchTreeDelMain.c(17,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\ch11_BinarySearchTreeDelAdded\BinarySearchTreeDelMain.c(8,14): warning C4101: 'sNode' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  2 of 17 functions (11.8%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  ch11_BinarySearchTreeDelAdded.vcxproj -> C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\ch11_BinarySearchTreeDelAdded\x64\Release\ch11_BinarySearchTreeDelAdded.exe

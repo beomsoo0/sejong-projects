@@ -1,0 +1,12 @@
+﻿  ALGraphDFS.c
+  DFSMain.c
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\ch14_ALFGraphDFS\DFSMain.c(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\ch14_ALFGraphDFS\DFSMain.c(17,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\ch14_ALFGraphDFS\DFSMain.c(14,6): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\ch14_ALFGraphDFS\DFSMain.c(14,9): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  2 of 23 functions ( 8.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  ch14_ALFGraphDFS.vcxproj -> C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\ch14_ALFGraphDFS\x64\Release\ch14_ALFGraphDFS.exe

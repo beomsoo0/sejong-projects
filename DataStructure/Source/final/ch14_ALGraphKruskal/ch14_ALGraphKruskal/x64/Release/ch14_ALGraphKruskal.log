@@ -1,0 +1,14 @@
+﻿  ALGraphKruskal.c
+  ArrayBaseStack.c
+  DLinkedList.c
+  KruskalMain.c
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\ch14_ALGraphKruskal\KruskalMain.c(10,25): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\ch14_ALGraphKruskal\KruskalMain.c(10,48): warning C4312: '형식 캐스트': 'int'에서 더 큰 'int *'(으)로의 변환입니다.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\ch14_ALGraphKruskal\KruskalMain.c(24,12): error C2198: 'AddEdge': 호출에 인수가 너무 적습니다.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\ch14_ALGraphKruskal\KruskalMain.c(29,26): warning C4013: 'calloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\ch14_ALGraphKruskal\KruskalMain.c(29,46): warning C4312: '형식 캐스트': 'int'에서 더 큰 'int *'(으)로의 변환입니다.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\ch14_ALGraphKruskal\KruskalMain.c(38,30): warning C4013: 'IsConnVertex'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\ch14_ALGraphKruskal\KruskalMain.c(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\final\ch14_ALGraphKruskal\KruskalMain.c(13,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  PriorityQueue.c
+  UsefulHeap.c

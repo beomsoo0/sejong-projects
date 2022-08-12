@@ -1,0 +1,6 @@
+﻿  InfixToPostfix.c
+C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\InfixToPostfix\source\InfixToPostfix.c(88,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  InfixToPostfixMain.c
+  ListBaseStack.c
+  코드를 생성하고 있습니다...
+  InfixToPostfix.vcxproj -> C:\Users\bsbs7\OneDrive - Sejong University\4학년 1학기\데이터구조론\Source\InfixToPostfix\Debug\InfixToPostfix.exe
