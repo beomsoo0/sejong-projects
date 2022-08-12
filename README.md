@@ -1,4 +1,4 @@
-# Kaggle_Titanic
+# KaggleTitanic
 
 - 문제 정의
  
